@@ -1,0 +1,43 @@
+<DOCTYPE html>
+<html lanh="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible content="IE=edge">
+<meta name="view point" content="width=device-width", inintial-scale=1.0">
+<title>Electric cars, Solar & Clean energy | Tesla </title>
+<link rel="stylesheet" href="./stylesheet">
+<link rel="stylesheet" href="./responsive.css">
+</head>
+<body>
+<nav class="nav-styles">
+<div  class="burner-wrap">logo</div>
+<span>Model S</span>
+<span>Model 3</span>
+<span>Model X</span>
+<span>Model Y</span>
+<span>Solor Roof</span>
+<span>Solar Panels</span>
+<span>Shop</span>
+<span>Account</span>
+<span>Menu</span>
+</nav>
+<main>
+<div>
+<h1>Model 1</h1>
+<p> Order online for <a href="https://www.tesla.com/support/" target="_blank">touchess delivery</a></p>
+</div>
+<div>
+<bottom>
+</bottom>
+</div>
+h1 { color: yellow; }
+#nav-styles { color: blueviolet;}
+*{ margin: o;
+padding: 0;
+box-sizing: border-box;
+}
+.box{ width: 50px;
+height: 50px;
+background-color: red;}
+</main>
+</body>
