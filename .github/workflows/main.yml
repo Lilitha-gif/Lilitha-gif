@@ -1,0 +1,103 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible content="IE=edge">
+<meta name="view point" content="width=device-width", inintial-scale=1.0">
+<title>Electric cars, Solar & Clean energy | Tesla </title>
+<link rel="stylesheet" href="./stylesheet">
+<link rel="stylesheet" href="./responsive.css">
+</head>
+<body>
+<nav class="nav-styles">
+<div  class="burner-wrap">logo</div> 
+<svg class="tds-icon tds-icon-logo-wordmark tds-site-logo-icon" viewBox="0 0 342 35"  xmlns="http://www.w3.org/2000/svg">
+<div class="middle menu>
+<div class="nav-item">Model S</div>
+<div class="nav-item">Model 3</div>
+<div class="nav-item">Model X</div>
+<div class="nav-item">Model Y</div>
+<div class="nav-item">Solor Roof</div>
+<div class="nav-item">Solar Panels</div>
+</div>
+<div class="right menu">
+<div class="nav-item">Shop</div>
+<div class="nav-item">Account</div>
+<div class="nav-item">Menu</div>
+</div>
+
+</nav>
+<main>
+<div>
+<h1>Model 1</h1>
+<p> Order online for <a href="https://www.tesla.com/support/" target="_blank">touchess delivery</a></p>
+</div>
+<div>
+<bottom>
+</bottom>
+</div>
+h1 { color: yellow; }
+#nav-styles { color: blueviolet;}
+*{ margin: o;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+font-weight: 500;
+}
+h1 { font-size: 40px;
+font-weight: 500; 
+}
+p{ font-size: 14px;
+font-weight: 400;
+padding: 6px 24px 16px 24px; 
+}
+.burner-wrap { background-image: url(.burner-wrap/assets);
+background-size: cover;
+background-reapeat: no-repeat;
+height: 100vw;
+width: 100vw;
+}
+nav{ display: flex;
+justify-content: space-inbetween; 
+height: 56px;
+padding: 0px 32px;
+}
+.nav-item{ padding: 5px 15px;
+cursor: pointer;
+}
+.nav-item: hover { background-color: Yellow; 
+border-bottom-left-radious: 9999px;
+border-bottom-right-radious: 9999px;
+border-top-left-radious: 9999px;
+border-top-right-radious: 9999px;
+}
+.logo{ height: 24px;
+width: 120px;
+}
+.main{ text-align: center;
+height: calc(100vh - 56px);
+display: flex;
+flex-direction: column;
+justify-content: space-inbetween;
+ }
+ .title-section{ margin-top: calc(155px- 56px);
+ }
+ .actions-area{ margin-bottom: 100px;
+ }
+ .bottom{ margin: 0;
+ padding: 0;
+ border: none;
+ background: none;
+ background-color: yellow;
+ width: 264px;
+ height: 40px;
+ padding: 7px 27px;
+border-bottom-left-radious: 9999px;
+border-bottom-right-radious: 9999px;
+border-top-left-radious: 9999px;
+border-top-right-radious: 9999px;
+margin-right: 15px;
+}
+</main>
+</body>
